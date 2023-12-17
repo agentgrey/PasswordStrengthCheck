@@ -1,0 +1,27 @@
+body {
+  background-color: #282828;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: #6a76ed;
+  padding: 20px;
+  height: 60px;
+  text-align: center;
+  border-bottom: 2px solid #b3b3b3;
+}
+
+h1 {
+  color: #121212;
+  font-size: 2rem;
+}
+
+.info-container {
+  color: #ffffff;
+}
+
+p {
+  font-size: 1rem;
+}

@@ -1,0 +1,55 @@
+.password-input {
+  margin: 20px auto;
+  width: 40%;
+}
+
+label {
+  display: block;
+  font-size: 1rem;
+  margin-bottom: 8px;
+  color: #ffffff;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  border-width: 4px;
+  outline: none;
+  transition: border-color 0.3s ease-in-out;
+}
+
+input::placeholder {
+  color: #ffffff;
+}
+
+.btn {
+  width: 120px;
+  height: 30px;
+  margin: 24px auto;
+  border-radius: 3px;
+  border: none;
+  background-color: #1FC468;
+  color: #ffffff;
+  cursor: pointer; 
+  transition: transform 0.2s ease-in-out;
+}
+
+.btn:active {
+  transform: scale(0.9); 
+  background-color: #18a557;
+}
+
+
+.step-counter {
+  width: 100%;
+  margin: 10% auto;
+  color: #b3b3b3;
+  font-size: 22px;
+  font-weight: 200;
+}
+.step-counter span {
+  color: #6a76ed;
+  font-weight: 700;
+}
