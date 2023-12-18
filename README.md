@@ -1,6 +1,6 @@
 # Password Strength Check
 ## Description
-This project implements a password strength checker using React for the front end and a Node.js server with MongoDB for backend storage.
+This project implements a password strength checker using React for the front end and with MongoDB for backend storage.
 
 ## Setup Instructions
 
@@ -30,4 +30,9 @@ This project implements a password strength checker using React for the front en
 - Visit http://localhost:3000 in your browser.
 - Enter a password in the input field and click check strength.
 - The steps required to make it strong will be displayed.
+
+## Screenshots
+![image](https://github.com/agentgrey/PasswordStrengthCheck/assets/90390855/8a59e00a-2733-4a7c-92fa-0785df986e4e)
+![image](https://github.com/agentgrey/PasswordStrengthCheck/assets/90390855/ddf381ea-aa9c-4db2-a194-1c362b348ac4)
+
     
