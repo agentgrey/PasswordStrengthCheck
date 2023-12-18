@@ -26,7 +26,7 @@ app.post('/checkStrength', async (req, res) => {
     password,steps,
   });
   await request.save();
-  res.json({ steps, borderColor });
+  res.json({ steps });
 });
 
 app.listen(PORT, () => {
